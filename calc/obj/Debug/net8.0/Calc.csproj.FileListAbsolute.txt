@@ -1,0 +1,14 @@
+C:\Users\aloci\OneDrive\Área de Trabalho\Calculadora\Calc\bin\Debug\net8.0\Calc.exe
+C:\Users\aloci\OneDrive\Área de Trabalho\Calculadora\Calc\bin\Debug\net8.0\Calc.deps.json
+C:\Users\aloci\OneDrive\Área de Trabalho\Calculadora\Calc\bin\Debug\net8.0\Calc.runtimeconfig.json
+C:\Users\aloci\OneDrive\Área de Trabalho\Calculadora\Calc\bin\Debug\net8.0\Calc.dll
+C:\Users\aloci\OneDrive\Área de Trabalho\Calculadora\Calc\bin\Debug\net8.0\Calc.pdb
+C:\Users\aloci\OneDrive\Área de Trabalho\Calculadora\Calc\obj\Debug\net8.0\Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aloci\OneDrive\Área de Trabalho\Calculadora\Calc\obj\Debug\net8.0\Calc.AssemblyInfoInputs.cache
+C:\Users\aloci\OneDrive\Área de Trabalho\Calculadora\Calc\obj\Debug\net8.0\Calc.AssemblyInfo.cs
+C:\Users\aloci\OneDrive\Área de Trabalho\Calculadora\Calc\obj\Debug\net8.0\Calc.csproj.CoreCompileInputs.cache
+C:\Users\aloci\OneDrive\Área de Trabalho\Calculadora\Calc\obj\Debug\net8.0\Calc.dll
+C:\Users\aloci\OneDrive\Área de Trabalho\Calculadora\Calc\obj\Debug\net8.0\refint\Calc.dll
+C:\Users\aloci\OneDrive\Área de Trabalho\Calculadora\Calc\obj\Debug\net8.0\Calc.pdb
+C:\Users\aloci\OneDrive\Área de Trabalho\Calculadora\Calc\obj\Debug\net8.0\Calc.genruntimeconfig.cache
+C:\Users\aloci\OneDrive\Área de Trabalho\Calculadora\Calc\obj\Debug\net8.0\ref\Calc.dll
